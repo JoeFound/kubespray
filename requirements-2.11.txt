@@ -1,5 +1,5 @@
 ansible==4.10.0
-ansible-core==2.11.11
+ansible-core==2.13.13rc1
 cryptography==3.4.8
 jinja2==3.1.2
 jmespath==1.0.1
